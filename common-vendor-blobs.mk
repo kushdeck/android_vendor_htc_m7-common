@@ -84,8 +84,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     $(LOCAL_PATH)/proprietary/system/lib/egl/libplayback_adreno200.so:system/lib/egl/libplayback_adreno200.so \
     $(LOCAL_PATH)/proprietary/system/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
-    $(LOCAL_PATH)/proprietary/system/lib/hw/nfc.m7.so:system/lib/hw/nfc.m7.so \
-    $(LOCAL_PATH)/proprietary/system/lib/hw/sensors.m7.so:system/lib/hw/sensors.m7.so \
     $(LOCAL_PATH)/proprietary/system/lib/hw/vendor-camera.msm8960.so:system/lib/hw/vendor-camera.msm8960.so \
     $(LOCAL_PATH)/proprietary/system/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     $(LOCAL_PATH)/proprietary/system/lib/libBeautyChat.so:system/lib/libBeautyChat.so \
