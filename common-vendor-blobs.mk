@@ -45,7 +45,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
-    $(LOCAL_PATH)/proprietary/system/etc/firmware/BCM4335A0_001.001.038.0015.0020.hcd:system/etc/firmware/BCM4335A0_001.001.038.0015.0020.hcd \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/BCM4335B0_002.001.006.0042.0044.hcd:system/etc/firmware/BCM4335B0_002.001.006.0042.0044.hcd \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/fw_bcm4335.bin:system/etc/firmware/fw_bcm4335.bin \
     $(LOCAL_PATH)/proprietary/system/etc/firmware/fw_bcm4335_apsta.bin:system/etc/firmware/fw_bcm4335_apsta.bin \
@@ -170,3 +169,5 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/lib/libsc-a3xx.so:system/lib/libsc-a3xx.so \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     $(LOCAL_PATH)/proprietary/system/vendor/firmware/mfg.bin:system/vendor/firmware/mfg.bin
+
+#    $(LOCAL_PATH)/proprietary/system/etc/firmware/BCM4335A0_001.001.038.0015.0020.hcd:system/etc/firmware/BCM4335A0_001.001.038.0015.0020.hcd \
